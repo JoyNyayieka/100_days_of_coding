@@ -1,4 +1,4 @@
-#### 100 Days of Coding – Data Science Journey
+### 100 Days of Coding – Data Science Journey
 
 This is a learning challenge based on the #100DaysOfCode format. For 100 consecutive days, I will dedicate at least one hour each day to learning and practicing **data science**. My aim is to build a solid foundation and complete small projects along the way.
 
@@ -6,7 +6,7 @@ This journey is tracked day by day in this repository, with clear topics, goals,
 
 ---
 
-#### Roadmap Overview
+### Roadmap Overview
 
 The challenge is organized into weekly themes to build up knowledge step-by-step:
 
@@ -22,7 +22,7 @@ The challenge is organized into weekly themes to build up knowledge step-by-step
 
 ---
 
-#### Daily Format
+### Daily Format
 
 Each day includes:
 - A **learning goal** (e.g. “Intro to Pandas” or “SQL Joins”)
@@ -33,7 +33,7 @@ You can view the full roadmap in the 100 Days of Data Science Coding Roadmap.pdf
 
 ---
 
-#### Milestone Days
+### Milestone Days
 
 | Day  | Description           |
 |------|------------------------|
@@ -44,7 +44,7 @@ You can view the full roadmap in the 100 Days of Data Science Coding Roadmap.pdf
 
 ---
 
-#### Tools & Languages
+### Tools & Languages
 
 - Python
 - Jupyter Notebooks
